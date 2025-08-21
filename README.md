@@ -15,7 +15,7 @@ This project sets up a comprehensive simulation environment for SystemVerilog RT
 ## Project Structure
 
 ```
-sv-cocotb-project/
+uvm-tb/
 ├── rtl/
 │   └── dut.sv              # SystemVerilog ALU implementation
 ├── tb/
