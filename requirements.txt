@@ -1,0 +1,6 @@
+# This file is used to install the required Python packages for the project.
+cocotb
+cocotb-test
+pyuvm
+pytest
+pyvsc
